@@ -1,4 +1,5 @@
 # 💞 Vtube-Model-Project 🔬 R & D Lab task
 
 ✅ Done list
- - ตา-คิ้ว
+ - [x] ตา-คิ้ว
+ - [x] ปาก
